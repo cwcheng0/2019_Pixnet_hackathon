@@ -14,14 +14,22 @@
 1.注意工會的FB
 -桃園市空服員職業工會 https://fb.com/TFAUTFAU
 -桃園市機師職業工會 https://fb.com/pilotunion
+
 2.抓取航班停航訊息: 一些機場(桃園/小港/台中/香港/廈門/上海/羅馬?)
 -桃園TPE機場 https://www.taoyuan-airport.com/chinese/revised_flight
+
 -松山TSA機場 https://www.tsa.gov.tw/tsa/zh/flights.aspx?id=1013&airFlyLine=1#
+
 -小港KHH機場 https://www.kia.gov.tw/
+
 -台中TXG機場 https://www.tca.gov.tw
+
 -香港HKG機場 https://www.hongkongairport.com/tc/flights/departures/passenger.page
+
 -廈門XMN機場 http://www.xiamenairport.com.cn/hbxx/hbxx.aspx
+
 -上海SHA機場 http://www.shanghaiairport.com/cn/flights.html
+
 -東京成田NRT機場 https://www.narita-airport.jp/ch2/flight/today
 -東京羽田HND機場 http://www.haneda-airport.jp/inter/flight/searchFlightInfo#search_results
 -關西KIA機場 https://www.kansai-airport.or.jp/tw/flight/route
